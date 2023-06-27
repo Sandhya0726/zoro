@@ -72,9 +72,10 @@ cursor: pointer;
 .text{
   height: 8vh;
   width: 90%;
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   margin-left: 6px;
   /* margin-top: 2vh; */
+  margin-bottom: 3vh;
 }
 .text label{
   text-overflow: ellipsis;
@@ -215,7 +216,7 @@ hr{
   }
   .card{
     width: 95%;
-    height: 43vh;
+    height: 45vh;
     margin-top: 2vh;
     /* margin-left: 3%; */
     margin-bottom: 2vh;
@@ -267,7 +268,7 @@ hr{
     font-family: sans-serif;
   }
   .text{
-    height: 8vh;
+    height: 9vh;
     width: 95%;
   }
   
