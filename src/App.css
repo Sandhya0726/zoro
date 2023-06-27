@@ -30,7 +30,7 @@ h2,.top label{
   font-weight: 500;
   margin-left: 4px;
   padding: 4px;
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: 'Averia Serif Libre' , cursive;
   /* letter-spacing: 1px; */
   text-align: center;
 }
@@ -70,7 +70,16 @@ cursor: pointer;
   border-radius: 10px;
 }
 .text{
+  height: 8vh;
+  width: 90%;
+  /* background-color: aquamarine; */
   margin-left: 6px;
+  /* margin-top: 2vh; */
+}
+.text label{
+  text-overflow: ellipsis;
+  word-wrap: normal;
+  text-align: center;
 }
 
 label,h4{
@@ -80,6 +89,7 @@ label,h4{
   text-align: center;
   color: rgb(203, 200, 200);
 }
+
 
 .telecast{
   display: flex;
@@ -113,6 +123,8 @@ label,h4{
   background-color: rgb(79, 79, 78);
   color: white;
   outline: none;
+  
+  
 }
 .month:hover{
   background-color: white;
@@ -242,10 +254,17 @@ hr{
     height: 50vh;
     width: 100%;
     margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    
 
   }
   .heading img{
     height: 100vh;
+    
+  }
+  h2,.top label{
+    font-family: sans-serif;
   }
   
 }
