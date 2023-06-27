@@ -20,7 +20,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text: "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text: "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link: "https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
   },
@@ -54,7 +54,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text: "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text: "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link:'https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056'
   },
@@ -87,7 +87,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link:'https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056'
   },
@@ -120,7 +120,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link:'https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056'
   },
@@ -153,7 +153,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link:'https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056'
   },
@@ -186,7 +186,7 @@ const Sdata = [
     imgsrc:
       "https://img.zorores.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
     title: "Demon Slayer",
-    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the manga series",
+    text:  "It adapts the story from volume 12 (chapter 98 onwards) of the ..",
     time: "TV.30min",
     link:'https://zoro.to/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056'
   },
